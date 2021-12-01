@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+    <case>
+        <id>1</id>
+        <firstName>Cool</firstName>
+        <lastName>Student</lastName>
+    </case>
+    <case>
+        <id>2</id>
+        <firstName>Maksim</firstName>
+        <lastName>Malenho</lastName>
+    </case>
+</users>
